@@ -46,6 +46,14 @@
 		"Divider"	[!$OSX]
 		{
 		}
+		"Restart"	[!$OSX]
+		{
+			"text"		"#Steam_MustRestart_Button"	
+			"command"		"RestartSteam"	
+		}
+		"Divider"	[!$OSX]
+		{
+		}
 		"Exit"	[!$OSX]
 		{
 			"text"		"#Steam_ExitSteam"	
