@@ -270,11 +270,11 @@
 			"align"		"right"	
 			"group"		"music"	
 		}
-		"emailreminderbar"	
+		"LibraryAnchor"	
 		{
 			"zpos"		"1"	
 		}
-		"phonereminderbar"	
+		"LibraryAnchor"	
 		{
 			"zpos"		"1"	
 		}
@@ -1100,7 +1100,7 @@
 		}
 		"place"	
 		{
-			"control"		"emailreminderbar"	
+			"control"		"LibraryAnchor"	
 			"margin-top"		"0"	
 			"margin-left"		"6"	
 			"margin-right"		"6"	
@@ -1111,13 +1111,13 @@
 		}
 		"place"	
 		{
-			"control"		"phonereminderbar"	
+			"control"		"LibraryAnchor"	
 			"margin-top"		"0"	
 			"margin-left"		"0"	
 			"margin-right"		"6"	
 			"width"		"max"	
 			"height"		"80"	
-			"start"		"emailreminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1129,7 +1129,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"7"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1141,7 +1141,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"7"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1153,7 +1153,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1165,7 +1165,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1177,7 +1177,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1189,7 +1189,7 @@
 			"margin-left"		"-7"	
 			"margin-right"		"0"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1201,7 +1201,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1237,7 +1237,7 @@
 			"margin-left"		"-7"	
 			"margin-right"		"0"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1249,7 +1249,7 @@
 			"margin-left"		"-6"	
 			"margin-right"		"0"	
 			"margin-bottom"		"21"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1261,7 +1261,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1273,7 +1273,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
@@ -1285,7 +1285,7 @@
 			"margin-left"		"2"	
 			"margin-right"		"8"	
 			"margin-bottom"		"20"	
-			"start"		"phonereminderbar"	
+			"start"		"LibraryAnchor"	
 			"dir"		"down"	
 		}
 		"place"	
